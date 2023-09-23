@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="adequado" />
+    <drawable name="pre_obeso" />
+    <drawable name="obesidade_grau_1" />
+    <drawable name="obesidade_grau_2" />
+    <drawable name="obesidade_grau_3" />
+</resources>
